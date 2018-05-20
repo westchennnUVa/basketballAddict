@@ -1,0 +1,126 @@
+/*NavBar*/
+
+.myNavItem {
+    display: block;
+    margin: auto;
+    /*color: red;*/
+}
+.jumbotron {
+    text-align: center;
+    background: none;
+}
+
+
+
+/*index页面*/
+
+.sectionLight {
+    background-color: #eceeef;
+    padding: 2rem;
+}
+
+.sectionDark {
+    background-color: #cccccc;
+    padding: 2rem;
+}
+
+.buttonWrapper {
+    margin-top: 20px;
+}
+
+button.myButton1 {
+    background-color: red;
+    color: #ffffff;
+    display: block;
+    margin: auto;
+}
+
+h5.modal-title {
+    margin: auto;
+}
+
+.modalFormWrapper {
+    padding: 2rem;
+}
+
+
+.imgCenter {
+    display: block;
+    margin: auto;
+}
+
+.myBtnCenter {
+    display: block;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    width: 83%;
+}
+
+
+
+
+
+/*news页面*/
+
+.newsTitle {
+    padding-top: 2rem;
+    text-align: center;
+    color: red;
+}
+
+.newsVideo {
+    display: block;
+    margin: auto;
+}
+
+.newsContent {
+    padding-left: 2rem;
+}
+
+
+.newsDetails {
+    font-size: 2rem;
+}
+
+
+
+
+/*Modal*/
+
+#myModal1 .signInModalForget {
+    padding-left: 30%;
+}
+
+
+.mySignUpForm {
+    margin-top: 0.2rem;
+    margin-bottom: 0.2rem;
+}
+
+
+/*footer*/
+
+.footerImg {
+    padding: 10px;
+}
+
+.fa {
+    margin: 10px;
+}
+
+.fa-facebook-square {
+    color: #3b5998;
+}
+
+.fa-google-plus-square {
+    color: #c32f10;
+}
+
+.fa-instagram {
+    color: #ffffff;
+}
+
+.socialWrapper {
+    margin: auto;
+}
